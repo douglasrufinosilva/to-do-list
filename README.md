@@ -1,0 +1,1 @@
+A mini project to consolidate the knowledge and skills acquired. This project was made using HTML, CSS, JS. A great solution for organizing your tasks.
